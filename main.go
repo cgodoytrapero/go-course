@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/cgodoytrapero/course/exercises"
 )
 
 func main() {
