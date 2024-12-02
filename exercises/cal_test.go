@@ -6,7 +6,5 @@ import (
 )
 
 func TestGiven(t *testing.T) {
-	b := Board{}
-	fmt.Println(b)
-
+	fmt.Println(Cal())
 }
